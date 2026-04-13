@@ -8,7 +8,7 @@ Only the **left** joystick is used to control movement:
 **Up-Down** -> X-Linear velocity positive forward and negative backward.    
 **Left-Right**-> Z-Angular velocity clockwise and counterclockwise. 
 
-Installation
+## Installing and Running
 Install pyserial if you haven't already:
 ```bash
 pip install pyserial
